@@ -1,0 +1,29 @@
+repo_name: ibrahimbayramli/PatikaSQL
+report_id: 1affe7a6fde8f19ea0ece8e8795e3c11
+repo_type: Public
+timestamp: '2023-11-09T19:14:19+00:00'
+requested_by: ibrahimbayramli
+provider: github
+branch: main
+detected_tools_count: 2
+tools:
+- name: SQL
+  description: It is a domain-specific language used in programming
+  website_url: https://en.wikipedia.org/wiki/SQL
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source: Ödev_9/Ödev_9.sql
+  last_updated_by: ibrahimbayramli
+  last_updated_on: 2022-02-20 01:00:06.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
