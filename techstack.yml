@@ -1,7 +1,8 @@
 repo_name: ibrahimbayramli/PatikaSQL
 report_id: 1affe7a6fde8f19ea0ece8e8795e3c11
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T19:14:19+00:00'
+timestamp: '2024-01-04T15:12:06+00:00'
 requested_by: ibrahimbayramli
 provider: github
 branch: main
@@ -15,7 +16,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
-  detection_source: Ödev_9/Ödev_9.sql
+  detection_source_url: https://github.com/ibrahimbayramli/PatikaSQL/blob/main/Ödev_1/Ödev_1.sql
+  detection_source: Ödev_1/Ödev_1.sql
   last_updated_by: ibrahimbayramli
   last_updated_on: 2022-02-20 01:00:06.000000000 Z
 - name: Git
@@ -26,4 +28,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ibrahimbayramli/PatikaSQL
   detection_source: Repo Metadata
